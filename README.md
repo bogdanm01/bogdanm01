@@ -1,6 +1,6 @@
 ### Hi, I am Bogdan :wave: 👨‍💻
 
-I am a third year Information Tehnology student at [Faculty of Technical Sciences](http://www.ftn.kg.ac.rs/)
+I am a third year Information Tehnology student at [Faculty of Technical Sciences](http://www.ftn.kg.ac.rs/).
 
 ### GitHub Stats
 
