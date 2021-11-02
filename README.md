@@ -12,4 +12,4 @@ I am a third year Information Tehnology student at 🏫 [Faculty of Technical Sc
 
 ### My GitHub Statistics
 
-[Github](https://github-readme-stats.vercel.app/api?username=bogdanm01&show_icons=true&theme=github_dark&hide=stars,issues)
+[!Github](https://github-readme-stats.vercel.app/api?username=bogdanm01&show_icons=true&theme=github_dark&hide=stars,issues)
