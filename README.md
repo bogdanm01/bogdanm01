@@ -4,7 +4,7 @@ I am a third year Information Tehnology student at [Faculty of Technical Science
 
 ### GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bogdanm01&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bogdanm01&show_icons=true&theme=dark&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
