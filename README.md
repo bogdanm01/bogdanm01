@@ -2,7 +2,7 @@
 
 I am a third year Information Tehnology student at [Faculty of Technical Sciences](http://www.ftn.kg.ac.rs/)
 
-###GitHub Stats
+### GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bogdanm01)](https://github.com/anuraghazra/github-readme-stats)
 
