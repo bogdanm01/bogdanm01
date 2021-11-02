@@ -8,7 +8,7 @@ I am a third year Information Tehnology student at [Faculty of Technical Science
 
 📘 Currently sharpening my Front End development skills  
 💙 Passinate about coding, design and music production  
-🚀 On journey of becoming Fullstack Web Developer  
+🚀 On journey of becoming Full Stack Web Developer  
 
 ### My GitHub Statistics
 
