@@ -6,9 +6,9 @@ Welcome to my GitHub profile!
 
 I am a third year Information Tehnology student at [Faculty of Technical Sciences](http://www.ftn.kg.ac.rs/). 
 
-📘 Currently sharpening my Front End development skills  
-💙 Passinate about coding, design and music production  
-🚀 On journey of becoming Full Stack Web Developer  
+📘 Currently sharpening my Back End development skills  
+💙 Passinate about coding, design and music production
+🚀 On journey of becoming Java Backend Web Developer  
 
 ### My GitHub Statistics
 
