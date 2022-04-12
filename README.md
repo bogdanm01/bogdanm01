@@ -8,7 +8,7 @@ I am a third year Information Tehnology student at [Faculty of Technical Science
 
 📘 Currently sharpening my Back End development skills  
 💙 Passinate about coding, design and music production <br>
-🚀 On journey of becoming Java Backend Web Developer 
+🚀 On journey of becoming Web Developer 
 
 ### My GitHub Statistics
 
