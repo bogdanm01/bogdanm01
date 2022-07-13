@@ -1,6 +1,6 @@
 # Hi, I am Bogdan :wave: 👨‍💻
 
-Welcome to my GitHub profile!
+Welcome to my GitHub profile! 
 
 ## About me
 
