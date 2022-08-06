@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 
 I am a third year Information Tehnology student at [Faculty of Technical Sciences](http://www.ftn.kg.ac.rs/). 
 
-📘 Currently sharpening my .NET Core and Angular skills 
+📘 Currently sharpening my .NET Core and Angular skills <br>
 💙 Passinate about coding, design and music production <br>
 🚀 On journey of becoming Full Stack .NET Core Developer
 
