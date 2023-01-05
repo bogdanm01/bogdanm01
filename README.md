@@ -4,11 +4,11 @@ Welcome to my GitHub profile!
 
 ## About me
 
-I am a final year Information Tehnology student at [Faculty of Technical Sciences](http://www.ftn.kg.ac.rs/). 
+I am a backend software developer and final year Information Tehnology student at [Faculty of Technical Sciences](http://www.ftn.kg.ac.rs/). 
 
-📘 Currently sharpening my .NET Core and Angular skills <br>
-💙 Passinate about coding, design and music production <br>
-🚀 On journey of becoming Full Stack .NET Core Developer
+📘 Currently sharpening my Spring Boot and Angular skills <br>
+💙 Passinate about coding, ui design and music production <br>
+🚀 On journey of becoming Full Stack Spring Developer
 
 ### My GitHub Statistics
 
