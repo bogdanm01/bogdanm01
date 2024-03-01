@@ -1,6 +1,6 @@
-# Welcome to My GitHub Playground! 🎮
+# Welcome to My GitHub!
 
-Hey there, I'm Bogdan – a backend developer with a passion for Java, Spring Boot, and all things related. This is where I share my coding adventures and projects. 
+Hey there, I'm Bogdan – a backend developer with a passion for Java, Spring Boot, and all things related.
 
 ## About Me
 
