@@ -3,12 +3,12 @@
 Hey there, I'm Bogdan – a full stack developer passionate about building modern, scalable web applications.  
 My main focus is on **React** and **Node.js**, but I also work with Angular and enjoy exploring UI/UX design.
 
-## 🚀 About Me
+## About Me
 
-- 🔭 Currently working on a **Notion-like note-taking web app** — a minimalist productivity tool with **block-based editing** and a **clean, distraction-free UI**.  
-- 💻 Experienced in crafting full stack solutions, building efficient APIs, and designing intuitive frontends.  
-- 🎨 I enjoy bridging the gap between design and development.  
-- 🌱 Always learning and exploring new technologies to refine my skills.  
+- Currently working on a **Notion-like note-taking web app** — a minimalist productivity tool with **block-based editing** and a **clean, distraction-free UI**.  
+- Experienced in crafting full stack solutions, building efficient APIs, and designing intuitive frontends.  
+- I enjoy bridging the gap between design and development.  
+- Always learning and exploring new technologies to refine my skills.  
 
 ## 🛠️ Tech Stack
 
