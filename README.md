@@ -10,7 +10,7 @@ My main focus is on **React** and **Node.js**, but I also work with Angular and 
 - I enjoy bridging the gap between design and development.  
 - Always learning and exploring new technologies to refine my skills.  
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
@@ -33,7 +33,7 @@ My main focus is on **React** and **Node.js**, but I also work with Angular and 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 
-## 🌐 Connect with Me  
+## Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)  
 
